@@ -35,7 +35,7 @@
 Автор работы — Оксана Цегоева
 
 - [Гитхаб](https://github.com/Oksceg)
-- [Телеграм](https://@oksts)
+- [Телеграм](https://t.me/oksts) 
 
 ## Условия использования
 Материалы проекта могут использоваться и распространяться в соответствии с лицензией [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ru).
