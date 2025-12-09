@@ -38,6 +38,6 @@ metawarc metadata --filetypes pdf --output moviescriptsandscreenplays.com_meta.j
 
 
 ## Replay Webpage
-[rpw_ms](https://github.com/Oksceg/archives25/blob/main/moviescriptsandscreenplays/replaywp_moviescriptsandscreenplays.png)
+![rpw_ms](https://github.com/Oksceg/archives25/blob/main/moviescriptsandscreenplays/replaywp_moviescriptsandscreenplays.png)
 
 Здесь заметно, что не отобразилась картинка — там должен был быть старый логотип гугл-поиска
