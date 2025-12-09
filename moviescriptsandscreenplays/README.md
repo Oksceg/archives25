@@ -22,3 +22,9 @@ metawarc index moviescriptsandscreenplays.com.warc.gz
 CDX file found. Estimated number of WARC records 87
 ```
 
+### Команда metadata
+
+```
+metawarc metadata --filetypes pdf --output moviescriptsandscreenplays.com_meta.jsonl  moviescriptsandscreenplays.com.warc.gz
+```
+Результат в moviescriptsandscreenplays.com_meta.jsonl
