@@ -1,5 +1,6 @@
 ## ArchiveReady
 ![kinoscenariy_archiveready](https://github.com/Oksceg/archives25/blob/main/kinoscenariy/kinoscenariy_archiveready.png)
+
 Весьма высокие результаты по всем параметрам, кроме того, метаданные (Metadata) достигла показателя 100%
 
 Будет ли это видно при анализе с помощью Metawarc?
