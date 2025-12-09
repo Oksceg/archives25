@@ -35,3 +35,11 @@ Processed 750 (59.52%) records
 Processed 1000 (79.37%) records
 Processed 1250 (99.21%) records
 ```
+
+### Команда metadata
+
+```
+metawarc metadata --filetypes pdf --output kinoscenariy.com_meta.jsonl  kinoscenariy.com.warc.gz
+```
+Результат в kinoscenariy.com_meta.jsonl
+
