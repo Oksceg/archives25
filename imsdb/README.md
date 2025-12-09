@@ -53,3 +53,10 @@ Processed 7250 (90.82%) records
 Processed 7500 (93.95%) records
 Processed 7750 (97.08%) records
 ```
+
+### Команда metadata 
+```
+metawarc metadata --filetypes pdf --output imsdb.com_meta.jsonl imsdb.com.warc.gz
+```
+
+Результат в imsdb.com_meta.jsonl
