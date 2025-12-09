@@ -51,3 +51,7 @@ metawarc metadata --filetypes pdf --output kinoscenariy.com_meta.jsonl  kinoscen
 ```
 Результат в kinoscenariy.com_meta.jsonl; файл пуст
 
+### Replay Webpage
+
+![rpw_ks](https://github.com/Oksceg/archives25/blob/main/kinoscenariy/replaywp_kinoscenariy.png)
+
