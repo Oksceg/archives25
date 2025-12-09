@@ -1,7 +1,7 @@
 ## ArchiveReady
 ![kinoscenariy_archiveready](https://github.com/Oksceg/archives25/blob/main/moviescriptsandscreenplays/moviescriptsandscreenplays_archiveready.png)
 
-Весьма низкие показатели по связности (Cohesion) и доступности (Accessibility), но зато показатель по метаданным (Metadata) достигает 100%. Кажется, не стоит многого ожидать от анализа Metawarc
+Весьма низкие показатели по связности (Cohesion) и доступности (Accessibility), но зато показатель по метаданным (Metadata) достигает 100%
 
 ## Metawarc
 ### Команда analyze 
@@ -27,10 +27,11 @@ metawarc index moviescriptsandscreenplays.com.warc.gz
 2025-12-09 15:29:12,584 - root - DEBUG - Indexing moviescriptsandscreenplays.com.warc.gz
 CDX file found. Estimated number of WARC records 87
 ```
+Сайт небольшой, поэтому неудивительно, что по сравнению с другими двумя, здесь результат гораздо меньше
 
 ### Команда metadata
 
 ```
 metawarc metadata --filetypes pdf --output moviescriptsandscreenplays.com_meta.jsonl  moviescriptsandscreenplays.com.warc.gz
 ```
-Результат в moviescriptsandscreenplays.com_meta.jsonl
+Результат в moviescriptsandscreenplays.com_meta.jsonl; файл пуст
