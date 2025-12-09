@@ -1,6 +1,10 @@
 ## ArchiveReady
 ![imsdb_archiveready](https://github.com/Oksceg/archives25/blob/main/imsdb/imsdb_archiveready.png)
 
+Достаточно высокие результаты практически по всем параметрам. Хуже всего выглядит результат по доступности (Accessibility): показатель меньше 50%
+
+Посмотрим более подробно на анализ данных через Metawarc:
+
 
 ## Metawarc
 ### Команда analyze 
