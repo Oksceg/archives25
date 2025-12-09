@@ -1,5 +1,5 @@
 ## ArchiveReady
-![This is an alt text.](https://github.com/Oksceg/archives25/blob/main/imsdb/imsdb_archiveready.png)
+![imsdb_archiveready](https://github.com/Oksceg/archives25/blob/main/imsdb/imsdb_archiveready.png)
 
 
 ## Metawarc
