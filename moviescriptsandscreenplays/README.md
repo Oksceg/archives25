@@ -1,6 +1,8 @@
 ## ArchiveReady
 ![kinoscenariy_archiveready](https://github.com/Oksceg/archives25/blob/main/moviescriptsandscreenplays/moviescriptsandscreenplays_archiveready.png)
 
+Весьма низкие показатели по связности (Cohesion) и доступности (Accessibility), но зато показатель по метаданным (Metadata) достигает 100%. Кажется, не стоит многого ожидать от анализа Metawarc
+
 ## Metawarc
 ### Команда analyze 
 Результаты оформлены в таблице
