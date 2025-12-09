@@ -1,9 +1,10 @@
 ### Команда analyze 
 Результаты оформлены в таблице
 
-```metawarc analyze imsdb.com.warc.gz```
-
+```
+metawarc analyze imsdb.com.warc.gz
 2025-12-09 03:03:42,732 - root - DEBUG - Preparing imsdb.com.warc.gz
+```
 | mimes  | files | size  | share |
 | ------------- |:-------------:|:-------------:|:-------------:|
 | text/html      | 6674     |372817830 |  95.875
@@ -16,8 +17,8 @@
 
 ### Команда index
 
-```metawarc index imsdb.com.warc.gz```
 ```
+metawarc index imsdb.com.warc.gz
 2025-12-09 15:20:58,834 - root - DEBUG - Indexing imsdb.com.warc.gz
 CDX file found. Estimated number of WARC records 7983
 Processed 250 (3.13%) records
