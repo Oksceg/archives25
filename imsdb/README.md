@@ -1,5 +1,5 @@
 ## ArchiveReady
-![This is an alt text.]([/image/sample.webp](https://github.com/Oksceg/archives25/blob/main/imsdb/imsdb_archiveready.png "This is a sample image.")
+![This is an alt text.](https://github.com/Oksceg/archives25/blob/main/imsdb/imsdb_archiveready.png)
 
 
 ## Metawarc
