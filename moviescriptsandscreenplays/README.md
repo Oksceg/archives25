@@ -35,3 +35,9 @@ CDX file found. Estimated number of WARC records 87
 metawarc metadata --filetypes pdf --output moviescriptsandscreenplays.com_meta.jsonl  moviescriptsandscreenplays.com.warc.gz
 ```
 Результат в moviescriptsandscreenplays.com_meta.jsonl; файл пуст
+
+
+## Replay Webpage
+[rpw_ms](https://github.com/Oksceg/archives25/blob/main/moviescriptsandscreenplays/replaywp_moviescriptsandscreenplays.png)
+
+Здесь заметно, что не отобразилась картинка — там должен был быть старый логотип гугл-поиска
