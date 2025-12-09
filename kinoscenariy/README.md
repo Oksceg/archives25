@@ -1,5 +1,8 @@
 ## ArchiveReady
 ![kinoscenariy_archiveready](https://github.com/Oksceg/archives25/blob/main/kinoscenariy/kinoscenariy_archiveready.png)
+Весьма высокие результаты по всем параметрам, кроме того, метаданные (Metadata) достигла показателя 100%
+
+Будет ли это видно при анализе с помощью Metawarc?
 
 ## Metawarc
 ### Команда analyze 
@@ -25,7 +28,7 @@ metawarc analyze kinoscenariy.com.warc.gz
 |text/plain          |                 1  |     473  |  0.000778707
 |#total              |              1260  |60741754  |100
 
-
+По данному сайту собралась наибольшая категория mimes (разнообразие типов данных), что соответствует высоким результатам ArchiveReady
 
 ### Команда index
 
