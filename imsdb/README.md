@@ -1,7 +1,8 @@
-Команда analyze
+### Команда analyze 
+Результаты оформлены в таблице
 
 ```metawarc analyze imsdb.com.warc.gz```
-```
+
 2025-12-09 03:03:42,732 - root - DEBUG - Preparing imsdb.com.warc.gz
 | mimes  | files | size  | share |
 | ------------- |:-------------:|:-------------:|:-------------:|
@@ -11,9 +12,9 @@
 | text/css      | 1     |2953  |  0.000759403
 | application/javascript      | 1     |706  |  0.000181557
 | #total        | 7983     |388858218 | 100
-```
 
-Команда index
+
+### Команда index
 
 ```metawarc index imsdb.com.warc.gz```
 ```
